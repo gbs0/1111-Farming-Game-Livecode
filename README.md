@@ -1,6 +1,6 @@
 ### Farming Game 🐷
 
-This is a simple ruby Farming Game made during the Le Wagon Batch #1040!
+This is a simple ruby Farming Game made during the Le Wagon Batch #1111!
 
 It shows some concepts of classes, superclasses and Subclasses in Ruby and user the `cli-ui` Shopify gem.
 
